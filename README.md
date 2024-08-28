@@ -1,6 +1,7 @@
 # crypto_app
 
 A school Flutter project.
+
 Created by Malik Arifin Hakim
 
 ## Getting Started
